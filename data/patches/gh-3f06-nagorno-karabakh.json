@@ -1,0 +1,44 @@
+{
+	"id": 3739,
+	"name": "Nagorno-Karabakh",
+	"description": "Nagorno-Karabakh is a de facto country in the Caucasus. It is internationally recognized as part of Azerbaijan, and is a cause of conflict between Armenia and Azerbaijan. ",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Republic_of_Artsak"
+		]
+	},
+	"path": {
+		"250-256": [
+			[
+				-15,
+				-758
+			],
+			[
+				2,
+				-758
+			],
+			[
+				2,
+				-751
+			],
+			[
+				-15,
+				-751
+			],
+			[
+				-15,
+				-752
+			],
+			[
+				-14,
+				-751
+			]
+		]
+	},
+	"center": {
+		"250-256": [
+			-6,
+			-754
+		]
+	}
+}
